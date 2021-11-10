@@ -1,5 +1,5 @@
 # Links e Sites Utéis 
-O objetivo desse repositório é armazenar sites uteis e que sejam de fácil acesso 
+Se assim como eu, você tem dificuldade de achar sites para o que está precisando, esse repositório servirá muito bem!
 
 
 ## Imagens sem direito autoral 🤳🏻
