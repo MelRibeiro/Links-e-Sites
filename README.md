@@ -4,4 +4,6 @@ O objetivo desse repositório é armazenar sites uteis e que sejam de fácil ace
 
 ## Imagens sem direito autoral
 - https://www.pexels.com/pt-br/
+- https://picsum.photos/
+- https://pixabay.com/pt/
 - 
