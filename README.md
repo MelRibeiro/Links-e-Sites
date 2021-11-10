@@ -7,7 +7,7 @@ O objetivo desse repositório é armazenar sites uteis e que sejam de fácil ace
 - https://picsum.photos/
 - https://pixabay.com/pt/
 
-## Paletas de Cores (ou só cor)
+## Paletas de Cores 
 - https://htmlcolorcodes.com/
 - https://color.adobe.com/pt/explore
 - https://coolors.co/
