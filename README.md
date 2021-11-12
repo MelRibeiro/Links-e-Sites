@@ -6,6 +6,7 @@ Se assim como eu, você tem dificuldade de achar sites para o que está precisan
 - https://www.pexels.com/pt-br/
 - https://picsum.photos/
 - https://pixabay.com/pt/
+- https://unsplash.com/
 
 ## Paletas de Cores 🎨
 - https://htmlcolorcodes.com/
@@ -13,6 +14,13 @@ Se assim como eu, você tem dificuldade de achar sites para o que está precisan
 - https://coolors.co/
 - https://materialui.co/colors/
 - https://www.palettable.io/
+
+## Ícones 🎈
+- https://www.flaticon.com/
+- https://www.iconfinder.com/
+- https://iconscout.com/
+- https://fontawesome.com/
+- https://icomoon.io/
 
 ## Jogos CSS 🎮
 -  https://flexboxfroggy.com/
@@ -26,4 +34,13 @@ Se assim como eu, você tem dificuldade de achar sites para o que está precisan
 - https://studio.code.org/courses
 - https://www.hackerrank.com/
 - https://www.beecrowd.com.br/
-- 
+- https://sudoku.club/
+- https://www.chess.com/pt-BR/play/computer
+- https://rachacuca.com.br/
+
+## Desafios (Front-End) ⚔
+- https://www.devchallenge.com.br/
+- https://devchallenges.io/
+- https://www.frontendmentor.io/
+- https://cssbattle.dev/
+- https://www.acefrontend.com/
