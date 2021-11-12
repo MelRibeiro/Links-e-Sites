@@ -13,3 +13,17 @@ Se assim como eu, você tem dificuldade de achar sites para o que está precisan
 - https://coolors.co/
 - https://materialui.co/colors/
 - https://www.palettable.io/
+
+## Jogos CSS 🎮
+-  https://flexboxfroggy.com/
+-  https://cssbattle.dev/
+-  https://cssgridgarden.com/
+-  https://flukeout.github.io/
+-  http://www.flexboxdefense.com/
+-  https://codepip.com/
+
+## Para melhorar sua lógica em programação 🧮
+- https://studio.code.org/courses
+- https://www.hackerrank.com/
+- https://www.beecrowd.com.br/
+- 
