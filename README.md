@@ -30,6 +30,14 @@ Se assim como eu, você tem dificuldade de achar sites para o que está precisan
 -  http://www.flexboxdefense.com/
 -  https://codepip.com/
 
+## Úteis css
+- https://animate.style/
+- https://www.shapedivider.app/
+- https://getwaves.io/
+- https://easings.net/pt-br
+- https://cubic-bezier.com/#.17,.67,.83,.67
+- https://animista.net/
+
 ## Para melhorar sua lógica em programação 🧮
 - https://studio.code.org/courses
 - https://www.hackerrank.com/
