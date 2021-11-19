@@ -43,6 +43,8 @@ Se assim como eu, você tem dificuldade de achar sites para o que está precisan
 - https://easings.net/pt-br
 - https://cubic-bezier.com/#.17,.67,.83,.67
 - https://animista.net/
+- https://bennettfeely.com/clippy/
+- https://nekocalc.com/
 
 ## Para melhorar sua lógica em programação 🧮
 - https://studio.code.org/courses
