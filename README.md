@@ -52,3 +52,6 @@ Se assim como eu, você tem dificuldade de achar sites para o que está precisan
 - https://www.frontendmentor.io/
 - https://cssbattle.dev/
 - https://www.acefrontend.com/
+
+## Git
+- https://git-school.github.io/visualizing-git/
