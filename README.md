@@ -53,6 +53,8 @@ Se assim como eu, você tem dificuldade de achar sites para o que está precisan
 - https://sudoku.club/
 - https://www.chess.com/pt-BR/play/computer
 - https://rachacuca.com.br/
+- https://www.codewars.com/
+- https://leetcode.com/
 
 ## Desafios (Front-End) ⚔
 - https://www.devchallenge.com.br/
